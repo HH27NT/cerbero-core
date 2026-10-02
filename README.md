@@ -41,7 +41,7 @@ dotnet test  Cerbero.Core.slnx
 dotnet test  Cerbero.Core.slnx --collect:"XPlat Code Coverage"   # coverage (coverlet)
 ```
 
-Latest local run: **28 tests passing**, line coverage 96.6%, branch coverage 74.3%.
+Latest local run: **28 tests passing**.
 
 ## Example
 
